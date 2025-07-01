@@ -30,30 +30,30 @@ Includes 20+ variables such as:
 
 <img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/05a7c16fcc5daf717fc4e83c1a54758ceec5998e/Slide1.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide2.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide3.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide4.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide5.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide6.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide7.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide8.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide9.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide10.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide11.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide12.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide13.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide14.jpg" width="600">
 
-<img src="" width="600">
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/0cccd061e4b5913cdf3b3032e9ed0abfe6d7b9be/Slide15.jpg" width="600">
