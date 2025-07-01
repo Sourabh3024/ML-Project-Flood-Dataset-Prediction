@@ -27,3 +27,5 @@ Includes 20+ variables such as:
 - Environmental impact analysis
 - Public policy development
 - Data science portfolio project 
+
+<img src="" width="600">
