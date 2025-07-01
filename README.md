@@ -28,4 +28,32 @@ Includes 20+ variables such as:
 - Public policy development
 - Data science portfolio project 
 
+<img src="https://github.com/Sourabh3024/ML-Project-Flood-Dataset-Prediction/blob/05a7c16fcc5daf717fc4e83c1a54758ceec5998e/Slide1.jpg" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
+<img src="" width="600">
+
 <img src="" width="600">
